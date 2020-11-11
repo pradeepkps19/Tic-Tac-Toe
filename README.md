@@ -1,6 +1,6 @@
 # TicTacToe
 A simple two player game, popularly known as Tic-Tac-Toe built using Android Studio.
-### Download and play the game by clicking [here!](https://drive.google.com/file/d/1jeh9TVnK7T9MdrgpejqLPZfkzDIY8sYs/view?usp=sharing)
+### [Download APK](https://drive.google.com/file/d/1jeh9TVnK7T9MdrgpejqLPZfkzDIY8sYs/view?usp=sharing)
 
 ### Play instructions 
 1. Player 1 starts the game with 'X' as his reference followed by Player 2 with 'O'.
